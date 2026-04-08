@@ -1,0 +1,13 @@
+# File di autosalvataggio e temporanei di MATLAB
+*.asv
+*~
+
+# File compilati (se usi C/C++ dentro Matlab)
+*.mex*
+
+# Cartelle di cache di Simulink (se le hai usate)
+slprj/
+sfprj/
+
+# Opzionale: de-commenta la riga sotto se NON vuoi caricare i file dati .mat
+# *.mat
